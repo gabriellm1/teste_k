@@ -1,0 +1,10 @@
+flask
+flask_cors
+werkzeug
+simple_salesforce
+datetime
+numpy
+pdfminer
+PyPDF2
+spacy
+pandas
